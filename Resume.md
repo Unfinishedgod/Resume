@@ -22,6 +22,7 @@ Experience
 ---
 ### 반도체 공정 분석 솔루션 개발 (2018.12 ~ 2019.09)
  - MES, LIMS데이터를 기반으로 한 반도체를 구성하는 최적의 성분 비율 분석
+ - 웹 기반의 분석 솔루션 구축
  - Tech Stack
 	 - R, Python, Oracle 11g, Hive, MobX, Bitbucket
 
