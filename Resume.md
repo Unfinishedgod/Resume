@@ -1,13 +1,13 @@
 # Profile
----
+
  - 이름 : 최의용
  - 생년월일 : 1989년 02월 21일
  - 취미 : 헬스, 마라톤, 독서, 블로그
 
 <br>
 
-Education
----
+# Education
+
  - 유신고등학교 졸업 Feb 2009
  - 연세대학교 원주캠퍼스 수학과 졸업 Feb 2014
  - 연세대학교 일반대학원 수학과 졸업 Feb 2016
@@ -15,8 +15,7 @@ Education
 	
 <br>
 
-Core Competencies
----
+# Core Competencies
 
  - ### Communication
  
@@ -31,8 +30,8 @@ Core Competencies
 
 <br>
 
-Experience
----
+# Experience
+
 ### 반도체 공정 분석 솔루션 개발 (2018.12 ~ 2019.09)
  - MES, LIMS데이터를 기반으로 한 반도체를 구성하는 최적의 성분 비율 분석
  - 웹 기반의 분석 솔루션 구축
@@ -51,8 +50,8 @@ Experience
 
 <br>
  
-Skills
----
+# Skills
+
 - R
 	- 반응형 문서 작성 (Rmarkdown)
 	- 동적 웹사이트 크롤링
@@ -73,8 +72,8 @@ Skills
 
 <br>
 
-Project
----
+# Project
+
 -  SK Data Hub 에서 제공하는 배달음식 통화 이용량 데이터 분석
 	- 특이사항: 공공데이터 데이터 오류 파악. SK Data Hub 문의 후 데이터에 오류가 있었음을 확인. 
 - 카카오톡 오픈 채팅방 분석
@@ -83,14 +82,14 @@ Project
     
 <br>  
 
-Blog
----
+# Blog
+
 -  Medium : [https://medium.com/@unfinishedgod](https://medium.com/@unfinishedgod)
 -  Rpubs : [https://rpubs.com/shjj08](https://rpubs.com/shjj08)
 
 <br>
 
-SNS
----
+# SNS
+
 - Facebook : [https://www.facebook.com/shjj08](https://www.facebook.com/shjj08)
 
