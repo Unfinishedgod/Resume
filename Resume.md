@@ -70,7 +70,9 @@
 <br>
 
 # Project
-
+- 메이저 리그 승/패 예측 모델 구축
+	- [https://www.fangraphs.com/](https://www.fangraphs.com/)
+	- [https://www.espn.com/mlb/][(https://www.espn.com/mlb/]
 -  SK Data Hub 에서 제공하는 배달음식 통화 이용량 데이터 분석
 	- 특이사항: 공공데이터 데이터 오류 파악. SK Data Hub 문의 후 데이터에 오류가 있었음을 확인. 
 - 카카오톡 오픈 채팅방 분석
