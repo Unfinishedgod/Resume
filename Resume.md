@@ -38,7 +38,7 @@
  - MES, LIMS데이터를 기반으로 한 반도체를 구성하는 최적의 성분 비율 분석을 했습니다.
  - 웹 기반의 분석 솔루션 구축을 했습니다.
  - Tech Stack
-	 - R, Python, Oracle 11g, Hive, MobX, Bitbucket
+	 - R, Python, Oracle 11g, Hive
 
 ### Performance Marketing (2017.04 ~ 2018.09)
  - 회사 사이트의 트렌드 분석을 했습니다.
